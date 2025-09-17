@@ -6,6 +6,8 @@ mainset:
     probability: 1
   - name: test2
     probability: 1
+  - name: test3
+    probability: 1
 name: test
 source: null
 subsets: []
