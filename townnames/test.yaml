@@ -1,0 +1,11 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: test
+    probability: 1
+  - name: test2
+    probability: 1
+name: test
+source: null
+subsets: []
